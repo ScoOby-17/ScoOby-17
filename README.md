@@ -48,17 +48,6 @@
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sco0by-17&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sco0by-17&theme=tokyonight" />
-
-</p>
 
 ---
 
