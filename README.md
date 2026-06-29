@@ -1,76 +1,116 @@
-<h1 align="center">Hey 👋, I'm Suhaib Azim</h1>
+<div align="center">
 
-<h3 align="center">
-🎓 BCA Student • 💻 Full Stack Developer • 🚀 DSA Enthusiast
-</h3>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+DSA+%7C+C%2B%2B)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=header" width="100%"/>
 
----
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 🚀 About Me
-
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 💻 Building projects using **Node.js, Express.js & MongoDB**
-- 🌱 Learning **Data Structures & Algorithms**
-- ⚡ Passionate about backend development
-- 🔥 Goal: Become a skilled software engineer
-
-<br><br>
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</p>
-
+```js
+const dev = {
+  name:     "Your Name",
+  role:     "Full Stack Developer",
+  stack:    ["MongoDB", "Express.js", "React", "Node.js"],
+  languages:["JavaScript", "C++"],
+  tools:    ["Git", "GitHub", "Postman"],
+  focus:    "Building clean backends & solving DSA problems in C++",
+  status:   "Open to opportunities 🚀",
+};
+```
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
+### 🌐 MERN Stack
 
-<a href="https://leetcode.com/u/ScoOby_17/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
 
-<a href="https://github.com/ScoOby-17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 💻 Languages
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/suhaib-azim-16a87731a/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-</p>
+### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-<h3 align="center">✨ "First, solve the problem. Then, write the code." ✨</h3>
+## 📊 GitHub Stats
 
-<h4 align="center">— John Johnson</h4>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🧩 DSA & Problem Solving
+
+```cpp
+// Approach to problem solving
+while (!solved) {
+    think();
+    code_in_cpp();
+    optimize();
+}
+// Time: O(effort)  |  Space: O(consistency)
+```
+
+- 🔢 Practising DSA in **C++** — arrays, linked lists, trees, graphs, DP
+- 🧠 Focus on writing clean, optimized solutions
+- 📌 Platforms: LeetCode · GeeksforGeeks · Codeforces
+
+---
+
+## 🚀 What I Build
+
+| Layer | Tech |
+|---|---|
+| 🎨 Frontend | React, HTML, CSS, JavaScript |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 🗄️ Database | MongoDB, Mongoose |
+| 🔌 API Testing | Postman |
+| 🔧 Version Control | Git + GitHub |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=100&section=footer" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
