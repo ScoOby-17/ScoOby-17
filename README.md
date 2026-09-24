@@ -207,7 +207,6 @@ Solutions to problems I've tackled on **Codeforces** — competitive programming
 | | |
 |---|---|
 | **University** | Maharshi Dayanand University (MDU) · 2024 – 2027 · 3rd Year |
-| **Semester SGPA** | Sem 1: 8.59 · Sem 2: 7.64 · Sem 3: 8.58 · Sem 4: 8.50 |
 | **Class XII** | 78% |
 | **Class X** | 70% |
 
