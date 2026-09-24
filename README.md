@@ -202,16 +202,6 @@ Solutions to problems I've tackled on **Codeforces** — competitive programming
 
 ---
 
-## Education
-
-| | |
-|---|---|
-| **University** | Maharshi Dayanand University (MDU) · 2024 – 2027 · 3rd Year |
-| **Class XII** | 78% |
-| **Class X** | 70% |
-
----
-
 ## Connect With Me
 
 <div align="center">
